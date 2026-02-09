@@ -35,7 +35,8 @@
 
     img {
       margin-top: 20px;
-      max-width: 320px;
+      max-width: 280px;
+      max-height: 250px;
       border-radius: 20px;
       box-shadow: 0 4px 15px rgba(0,0,0,0.2);
       display: none;
